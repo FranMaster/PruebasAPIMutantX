@@ -1,0 +1,6 @@
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\bin\Debug\Mel.Domain.dll
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\bin\Debug\Mel.Domain.pdb
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.dll
+C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.pdb

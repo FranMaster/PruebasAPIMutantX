@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mel", "Mel\Mel.csproj", "{9082AF1E-8B7A-4F4B-A821-9AD51094B3CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mel.BussinesLogic", "Mel.BussinesLogic\Mel.BussinesLogic.csproj", "{F10CF405-EEDE-43EB-A5A9-93A2492CF62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mel.Domain", "Mel.Domain\Mel.Domain.csproj", "{58E26681-EC15-45CF-8684-B2132AF3E2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9082AF1E-8B7A-4F4B-A821-9AD51094B3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9082AF1E-8B7A-4F4B-A821-9AD51094B3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9082AF1E-8B7A-4F4B-A821-9AD51094B3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9082AF1E-8B7A-4F4B-A821-9AD51094B3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10CF405-EEDE-43EB-A5A9-93A2492CF62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10CF405-EEDE-43EB-A5A9-93A2492CF62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10CF405-EEDE-43EB-A5A9-93A2492CF62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10CF405-EEDE-43EB-A5A9-93A2492CF62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E26681-EC15-45CF-8684-B2132AF3E2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E26681-EC15-45CF-8684-B2132AF3E2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E26681-EC15-45CF-8684-B2132AF3E2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E26681-EC15-45CF-8684-B2132AF3E2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E382FBF-CF31-42E6-832F-E53C2A4713BF}
+	EndGlobalSection
+EndGlobal
