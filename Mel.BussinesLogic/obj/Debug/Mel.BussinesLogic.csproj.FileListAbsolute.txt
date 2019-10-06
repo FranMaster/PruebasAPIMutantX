@@ -1,0 +1,5 @@
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.BussinesLogic\bin\Debug\Mel.BussinesLogic.dll
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.BussinesLogic\bin\Debug\Mel.BussinesLogic.pdb
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.BussinesLogic\obj\Debug\Mel.BussinesLogic.dll
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.BussinesLogic\obj\Debug\Mel.BussinesLogic.pdb
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.BussinesLogic\obj\Debug\Mel.BussinesLogic.csprojResolveAssemblyReference.cache
