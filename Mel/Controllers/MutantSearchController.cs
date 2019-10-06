@@ -47,6 +47,11 @@ namespace Mel.Controllers
                     result.Message = "ERROR, Array No es NxN";
                     return Request.CreateResponse(HttpStatusCode.BadRequest, result, Configuration.Formatters.JsonFormatter);
                 }
+                if (!Modelo.VerificacionDeLetras(Array)){
+                    result.Code = 400;
+                    result.Message = "ERROR, Cadena de ADN desconocida , se Buscan Xmen,NO ALIENS.";
+                    return Request.CreateResponse(HttpStatusCode.BadRequest, result, Configuration.Formatters.JsonFormatter);
+                }
                 if (Modelo.isMutant(Array))
                 {
                     result.Code = 200;

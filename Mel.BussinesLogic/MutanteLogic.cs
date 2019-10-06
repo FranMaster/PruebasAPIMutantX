@@ -170,7 +170,7 @@ namespace Mel.BussinesLogic
 
         }
 
-        private bool VerificacionDeLetras(string[] Array)
+        public bool VerificacionDeLetras(string[] Array)
         {
             string LETRASPERMITIDAS = "ATGCA";
             for (int i = 0; i < Array.Length; i++)
