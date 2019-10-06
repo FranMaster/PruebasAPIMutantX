@@ -4,3 +4,8 @@ C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.cspr
 C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.dll
 C:\Users\Francisco\source\repos\ServicioMel\Mel.Domain\obj\Debug\Mel.Domain.pdb
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.Domain\bin\Debug\Mel.Domain.dll
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.Domain\bin\Debug\Mel.Domain.pdb
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.Domain\obj\Debug\Mel.Domain.dll
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.Domain\obj\Debug\Mel.Domain.pdb
+C:\Users\B049389\Desktop\INTENTODEFINITIVO\PruebasAPIMutantX\Mel.Domain\obj\Debug\Mel.Domain.csprojResolveAssemblyReference.cache
